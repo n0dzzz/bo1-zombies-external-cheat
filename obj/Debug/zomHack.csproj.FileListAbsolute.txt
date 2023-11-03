@@ -1,0 +1,7 @@
+D:\zomHack\zomHack\bin\Debug\zomHack.exe.config
+D:\zomHack\zomHack\bin\Debug\zomHack.exe
+D:\zomHack\zomHack\bin\Debug\zomHack.pdb
+D:\zomHack\zomHack\obj\Debug\zomHack.csproj.AssemblyReference.cache
+D:\zomHack\zomHack\obj\Debug\zomHack.csproj.CoreCompileInputs.cache
+D:\zomHack\zomHack\obj\Debug\zomHack.exe
+D:\zomHack\zomHack\obj\Debug\zomHack.pdb
